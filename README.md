@@ -14,4 +14,4 @@ https://www.obilet.com/
 https://www.ido.com.tr/
 https://www.izban.com.tr/ 
 https://yolcu360.com/
-![image](https://github.com/LunarianLuvien/DatabaseTermProject/assets/146027931/bcd9ecdf-922d-4c1a-a33c-386d359534ba)
+
