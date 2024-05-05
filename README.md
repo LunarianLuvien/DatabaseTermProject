@@ -1,1 +1,17 @@
 # DatabaseTermProject
+This project aims to establish a detailed transportation database model for a nation, covering diverse transportation modes such as sea, air, road, mobile transport, and metro. It introduces a system that issues unique transportation cards to citizens, which keep track of their travel histories, search behaviors, and preferences. The database is designed to handle a wide range of queries, from broad to specific.
+
+The project starts with the collection of data requirements from seven different transportation providers: Turkish Airlines, TCDD, Martı Tech, Obilet, IDO, IZBAN, and Yolcu360. It progresses with the development of individual EER diagrams for each provider before integrating these into a unified comprehensive diagram. The next steps involve converting the conceptual design into a relational model and finally implementing the physical structure of the database.
+
+Included in the project's source files are individual EER diagrams for each provider, a merged diagram that illustrates their integration, and various database components such as data entries, triggers, check constraints, and a selection of query examples for extensive testing.
+
+
+
+https://www.turkishairlines.com/
+https://www.tcddtasimacilik.gov.tr/ 
+https://www.marti.tech/
+https://www.obilet.com/
+https://www.ido.com.tr/
+https://www.izban.com.tr/ 
+https://yolcu360.com/
+![image](https://github.com/LunarianLuvien/DatabaseTermProject/assets/146027931/bcd9ecdf-922d-4c1a-a33c-386d359534ba)
