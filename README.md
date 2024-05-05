@@ -1,4 +1,11 @@
 # DatabaseTermProject
+
+ 🔴 Group Members
+Ahmet Memiş 05210000905
+Atakan Gesmeli 05200000061
+Deniz Egemen Keneş 05210000249
+Anıl Akuygur 05230000194
+
 This project aims to establish a detailed transportation database model for a nation, covering diverse transportation modes such as sea, air, road, mobile transport, and metro. It introduces a system that issues unique transportation cards to citizens, which keep track of their travel histories, search behaviors, and preferences. The database is designed to handle a wide range of queries, from broad to specific.
 
 The project starts with the collection of data requirements from seven different transportation providers: Turkish Airlines, TCDD, Martı Tech, Obilet, IDO, IZBAN, and Yolcu360. It progresses with the development of individual EER diagrams for each provider before integrating these into a unified comprehensive diagram. The next steps involve converting the conceptual design into a relational model and finally implementing the physical structure of the database.
